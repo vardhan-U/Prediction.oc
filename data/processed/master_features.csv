@@ -1,0 +1,31 @@
+match_id,date,home_team,away_team,stadium_name,home_international_historical_xg,away_international_historical_xg,home_squad_club_avg_xg,away_squad_club_avg_xg,home_team_elo,away_team_elo,home_stadium_historical_win_pct,away_stadium_historical_win_pct,key_player_injuries
+20260611_USA_HAI,2026-06-11,USA,Haiti,MetLife Stadium,1.3,1.35,1.65,1.45,1721.0,1532.0,0.6,0.33,0
+20260611_QAT_AUS,2026-06-11,Qatar,Australia,SoFi Stadium,1.35,1.35,1.65,1.45,1455.0,1783.0,0.33,0.33,0
+20260617_USA_QAT,2026-06-17,USA,Qatar,Mercedes-Benz Stadium,1.3,1.35,1.65,1.45,1721.0,1455.0,0.33,0.33,0
+20260617_AUS_HAI,2026-06-17,Australia,Haiti,Hard Rock Stadium,1.35,1.35,1.65,1.45,1783.0,1532.0,0.33,0.33,0
+20260625_USA_AUS,2026-06-25,USA,Australia,MetLife Stadium,1.3,1.35,1.65,1.45,1721.0,1783.0,0.6,0.33,0
+20260612_MEX_CUR,2026-06-12,Mexico,Curacao,Estadio Azteca,1.25,1.35,1.65,1.45,1860.0,1436.0,0.775,0.33,0
+20260612_ITA_GHA,2026-06-12,Italy,Ghana,Levi Stadium,1.35,1.35,1.65,1.45,1550.0,1503.0,0.33,0.33,0
+20260618_MEX_ITA,2026-06-18,Mexico,Italy,Estadio Azteca,1.25,1.35,1.65,1.45,1860.0,1550.0,0.775,0.33,0
+20260618_GHA_CUR,2026-06-18,Ghana,Curacao,Arrowhead Stadium,1.35,1.35,1.65,1.45,1503.0,1436.0,0.33,0.33,0
+20260613_CAN_PAN,2026-06-13,Canada,Panama,BC Place,1.15,1.35,1.65,1.45,1784.0,1737.0,0.33,0.33,0
+20260613_SPA_JAP,2026-06-13,Spain,Japan,Lumen Field,1.75,1.4,1.65,1.45,2165.0,1904.0,0.33,0.33,0
+20260619_CAN_SPA,2026-06-19,Canada,Spain,BC Place,1.15,1.75,1.65,1.45,1784.0,2165.0,0.33,0.33,0
+20260614_FRA_SAU,2026-06-14,France,Saudi Arabia,SoFi Stadium,1.84,1.35,1.65,1.45,2081.0,1568.0,0.65,0.33,0
+20260614_AUS_MOR,2026-06-14,Austria,Morocco,Levi Stadium,1.35,1.2,1.65,1.45,1827.0,1550.0,0.33,0.33,0
+20260620_FRA_AUS,2026-06-20,France,Austria,Rose Bowl,1.84,1.35,1.65,1.45,2081.0,1827.0,0.33,0.33,0
+20260615_BRA_SOU,2026-06-15,Brazil,South Korea,MetLife Stadium,1.78,1.35,1.65,1.45,1984.0,1752.0,0.65,0.33,0
+20260615_BEL_TUN,2026-06-15,Belgium,Tunisia,Gillette Stadium,1.35,1.35,1.65,1.45,1867.0,1636.0,0.33,0.33,0
+20260616_ARG_UZB,2026-06-16,Argentina,Uzbekistan,Mercedes-Benz Stadium,1.68,1.35,1.65,1.45,2113.0,1727.0,0.33,0.33,0
+20260616_GER_EGY,2026-06-16,Germany,Egypt,Hard Rock Stadium,1.6,1.35,1.65,1.45,1923.0,1699.0,0.6,0.35,0
+20260622_ARG_GER,2026-06-22,Argentina,Germany,MetLife Stadium,1.68,1.6,1.65,1.45,2113.0,1923.0,0.33,0.33,0
+20260617_ENG_NIG,2026-06-17,England,Nigeria,Arrowhead Stadium,1.92,1.35,1.65,1.45,2020.0,1550.0,0.33,0.33,0
+20260617_NET_ECU,2026-06-17,Netherlands,Ecuador,Gillette Stadium,1.55,1.35,1.65,1.45,1961.0,1933.0,0.33,0.33,0
+20260618_POR_COL,2026-06-18,Portugal,Colombia,AT&T Stadium,1.7,1.35,1.65,1.45,1984.0,1975.0,0.33,0.33,0
+20260618_NAN_SWI,2026-06-18,nan,Switzerland,Lincoln Financial Field,1.35,1.35,1.2,1.45,1550.0,1889.0,0.33,0.33,0
+20260619_CRO_SWE,2026-06-19,Croatia,Sweden,NRG Stadium,1.35,1.35,1.65,1.45,1930.0,1719.0,0.33,0.33,0
+20260619_TÜR_SCO,2026-06-19,Türkiye,Scotland,Lincoln Financial Field,1.35,1.35,1.65,1.45,1902.0,1767.0,0.33,0.33,0
+20260620_CZE_CHI,2026-06-20,Czechia,Chile,Hard Rock Stadium,1.35,1.35,1.65,1.2,1726.0,1550.0,0.33,0.33,0
+20260621_PAR_IRA,2026-06-21,Paraguay,Iran,AT&T Stadium,1.35,1.35,1.65,1.45,1833.0,1764.0,0.33,0.33,0
+20260621_ALG_NEW,2026-06-21,Algeria,New Zealand,Gillette Stadium,1.35,1.35,1.65,1.45,1743.0,1585.0,0.33,0.33,0
+20260622_IVO_JOR,2026-06-22,Ivory Coast,Jordan,MetLife Stadium,1.35,1.35,1.65,1.45,1676.0,1690.0,0.33,0.33,0
