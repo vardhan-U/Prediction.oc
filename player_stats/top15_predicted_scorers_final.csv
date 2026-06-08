@@ -1,0 +1,16 @@
+player,nation,pos,squad,total_wc_goals,Predicted_WC_Goals,wc_appearances,avg_wc_goals
+Kylian Mbappé,fr FRA,FW,Real Madrid,20.0,6,,
+Harry Kane,eng ENG,FW,Bayern Munich,8.0,5,,
+Ousmane Dembélé,fr FRA,FW,Paris S-G,0.0,4,,
+Serhou Guirassy,gn GUI,FW,Dortmund,0.0,4,,
+Erling Haaland,no NOR,FW,Manchester City,0.0,4,,
+Alexander Isak,se SWE,FW,Newcastle Utd,0.0,4,,
+Ante Budimir,hr CRO,FW,Osasuna,0.0,4,,
+Bryan Mbeumo,cm CMR,FW,Brentford,0.0,4,,
+Patrik Schick,cz CZE,FW,Leverkusen,0.0,4,,
+Alexander Sørloth,no NOR,FW,Atlético Madrid,0.0,4,,
+Lionel Messi,ar ARG,FW,Inter Miami,26.0,4,8.0,3.25
+Jonathan Burkardt,de GER,FW,Mainz 05,0.0,3,,
+Matheus Cunha,br BRA,"MF,FW",Wolves,0.0,3,,
+Jonathan David,ca CAN,FW,Lille,0.0,3,,
+Hugo Ekitike,fr FRA,FW,Eint Frankfurt,0.0,3,,
