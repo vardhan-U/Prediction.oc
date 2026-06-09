@@ -1,0 +1,49 @@
+group,position,team,points
+A,1,South Africa,7
+A,2,Mexico,5
+A,3,South Korea,3
+A,4,Czech Republic,1
+B,1,Switzerland,6
+B,2,Canada,4
+B,3,Qatar,4
+B,4,Bosnia and Herzegovina,3
+C,1,Paraguay,9
+C,2,Australia,6
+C,3,Turkey,1
+C,4,United States,1
+D,1,Brazil,7
+D,2,Morocco,4
+D,3,Haiti,2
+D,4,Scotland,2
+E,1,Germany,7
+E,2,Ecuador,5
+E,3,Ivory Coast,2
+E,4,Curaçao,1
+F,1,Japan,7
+F,2,Tunisia,6
+F,3,Sweden,3
+F,4,Netherlands,1
+G,1,Belgium,7
+G,2,Egypt,4
+G,3,Iran,2
+G,4,New Zealand,2
+H,1,Spain,9
+H,2,Cape Verde,4
+H,3,Uruguay,2
+H,4,Saudi Arabia,1
+I,1,Senegal,9
+I,2,France,6
+I,3,Norway,3
+I,4,Iraq,0
+J,1,Argentina,9
+J,2,Austria,6
+J,3,Algeria,3
+J,4,Jordan,0
+K,1,Uzbekistan,5
+K,2,Colombia,4
+K,3,Portugal,3
+K,4,DR Congo,2
+L,1,Croatia,7
+L,2,Ghana,7
+L,3,England,1
+L,4,Panama,1
