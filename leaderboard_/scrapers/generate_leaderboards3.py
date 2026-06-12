@@ -13,7 +13,6 @@ def main():
     df_shooting = pd.read_csv('cleaned_player_shooting.csv')
     df_data = pd.read_csv('cleaned_players_data-2024_2025.csv')
     df_goals = pd.read_csv('goals_cleaned.csv')
-    # Load structural files to maintain system pipeline consistency
     df_players = pd.read_csv('cleaned_players.csv')
     df_squads = pd.read_csv('cleaned_squads.csv')
     df_tournaments = pd.read_csv('cleaned_tournaments.csv')
