@@ -1,16 +1,16 @@
 rank,player,team,position,assists,xg_assist,xa_per90,minutes_played,pas_rating
-1,Lionel Messi,Argentina,FW,3,2.5,0.33,690,99
-2,Antoine Griezmann,France,MF,3,3.1,0.52,537,95
-3,Bruno Fernandes,Portugal,MF,3,1.7,0.43,356,88
-4,Ivan Perišić,Croatia,FW,3,0.9,0.12,669,86
-5,Ousmane Dembélé,France,FW,2,1.6,0.33,433,84
-6,Kylian Mbappé,France,FW,2,1.3,0.2,598,84
+1,Lionel Messi,Argentina,FW,4,2.5,0.33,690,99
+2,Antoine Griezmann,France,MF,4,3.1,0.52,537,95
+3,Bruno Fernandes,Portugal,MF,4,1.7,0.43,356,88
+4,Ivan Perišić,Croatia,FW,4,0.9,0.12,669,86
+5,Ousmane Dembélé,France,FW,3,1.6,0.33,433,84
+6,Kylian Mbappé,France,FW,3,1.3,0.2,598,84
 7,Harry Kane,England,FW,3,1.5,0.34,402,82
-8,Theo Hernández,France,DF,2,1.2,0.21,508,80
-9,Jordi Alba,Spain,DF,2,0.9,0.31,264,78
+8,Theo Hernández,France,DF,3,1.2,0.21,508,80
+9,Jordi Alba,Spain,DF,3,0.9,0.31,264,78
 10,Vinicius Júnior,Brazil,FW,2,0.7,0.21,299,75
-11,Alexis Mac Allister,Argentina,MF,1,1.0,0.16,550,75
-12,Enzo Fernández,Argentina,MF,1,0.9,0.14,564,75
+11,Alexis Mac Allister,Argentina,MF,2,1.0,0.16,550,75
+12,Enzo Fernández,Argentina,MF,2,0.9,0.14,564,75
 13,Lucas Paquetá,Brazil,MF,1,1.5,0.43,314,73
 14,Raphinha,Brazil,FW,1,1.3,0.37,315,73
 15,Serge Gnabry,Germany,FW,1,1.5,0.51,263,72
